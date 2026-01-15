@@ -17,7 +17,7 @@ const Hero = () => {
           <h1 className="hero-title">
             Hi, I'm <span className="gradient-text">John Keynard Amacna</span>
           </h1>
-          <h2 className="hero-subtitle">Full Stack Developer</h2>
+          <h2 className="hero-subtitle"></h2>
           <p className="hero-description">
             Welcome to my portfolio!
           </p>
