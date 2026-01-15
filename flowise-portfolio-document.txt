@@ -1,0 +1,147 @@
+PORTFOLIO INFORMATION DOCUMENT
+
+ABOUT JOHN KEYNARD AMACNA
+
+Name: John Keynard Amacna
+Title: Full Stack Developer
+Tagline: I create beautiful, functional, and user-centered digital experiences.
+
+Professional Summary:
+John Keynard Amacna is an experienced Full Stack Developer with over 3 years of professional experience in web development. He has successfully completed 50+ projects and worked with 100+ satisfied clients. His expertise lies in creating beautiful, functional, and user-centered digital experiences that combine technical excellence with exceptional design.
+
+Experience:
+- Total Projects Completed: 50+
+- Years of Professional Experience: 3+
+- Happy Clients: 100+
+
+
+SERVICES OFFERED
+
+John Keynard Amacna provides the following professional services:
+
+1. Web Development
+   Full-stack web application development with modern frameworks and technologies.
+
+2. UI/UX Design
+   Creating intuitive and visually appealing user interfaces and user experiences.
+
+3. Mobile Applications
+   Cross-platform mobile application development for iOS and Android.
+
+4. API Development
+   Building robust and scalable RESTful APIs and GraphQL endpoints.
+
+5. Database Design
+   Designing efficient database schemas and data management solutions.
+
+6. Cloud Solutions
+   Cloud infrastructure setup, deployment, and management services.
+
+
+TECHNICAL SKILLS
+
+Frontend Technologies:
+- React (90% proficiency) - Modern frontend framework for building interactive user interfaces
+- JavaScript (85% proficiency) - Core programming language for web development
+- TypeScript (80% proficiency) - Typed superset of JavaScript for large-scale applications
+- HTML5 (95% proficiency) - Markup language for structuring web content
+- CSS3 (90% proficiency) - Styling language for designing web interfaces
+- Tailwind CSS (85% proficiency) - Utility-first CSS framework for rapid UI development
+
+Backend Technologies:
+- Node.js (85% proficiency) - JavaScript runtime for server-side development
+- Python (80% proficiency) - Versatile programming language for backend services
+- MongoDB (75% proficiency) - NoSQL database for flexible data storage
+- PostgreSQL (80% proficiency) - Relational database management system
+
+Development Tools:
+- Git (90% proficiency) - Version control system for code management
+- Docker (70% proficiency) - Containerization platform for application deployment
+- AWS (75% proficiency) - Cloud computing platform for scalable infrastructure
+
+
+PORTFOLIO PROJECTS
+
+1. E-Commerce Platform
+   Category: Full-Stack Web Application
+   Description: A full-stack e-commerce solution with payment integration, user authentication, and admin dashboard. This comprehensive platform enables businesses to manage their online store with features including product catalog, shopping cart, secure checkout, and administrative controls.
+   Technologies: React, Node.js, MongoDB, Stripe
+   GitHub: https://github.com
+   Demo: https://example.com
+
+2. Task Management App
+   Category: Web Application
+   Description: A collaborative task management application with real-time updates and team collaboration features. This application helps teams organize their work, track progress, assign tasks, and communicate effectively within a unified platform.
+   Technologies: React, TypeScript, Firebase, Material-UI
+   GitHub: https://github.com
+   Demo: https://example.com
+
+3. Weather Dashboard
+   Category: Frontend Application
+   Description: A beautiful weather dashboard with location-based forecasts and interactive maps. This application provides users with detailed weather information, forecasts, and visual representations of weather patterns.
+   Technologies: React, OpenWeather API, Chart.js, CSS3
+   GitHub: https://github.com
+   Demo: https://example.com
+
+4. Social Media Analytics
+   Category: Data Analytics Platform
+   Description: Analytics platform for social media metrics with data visualization and reporting tools. This platform helps businesses track their social media performance, analyze engagement metrics, and generate comprehensive reports.
+   Technologies: React, Python, PostgreSQL, D3.js
+   GitHub: https://github.com
+   Demo: https://example.com
+
+5. Fitness Tracker
+   Category: Mobile Application
+   Description: Mobile-first fitness tracking app with workout plans, progress tracking, and social features. This application helps users monitor their fitness goals, track workouts, and connect with a community of fitness enthusiasts.
+   Technologies: React Native, Node.js, MongoDB, GraphQL
+   GitHub: https://github.com
+   Demo: https://example.com
+
+6. Blog Platform
+   Category: Content Management System
+   Description: A modern blogging platform with markdown support, SEO optimization, and content management. This platform provides writers and content creators with a powerful tool for publishing, managing, and optimizing their blog content.
+   Technologies: Next.js, TypeScript, Prisma, Tailwind CSS
+   GitHub: https://github.com
+   Demo: https://example.com
+
+
+CONTACT INFORMATION
+
+For inquiries, collaborations, or project discussions, you can reach John Keynard Amacna through:
+
+Email: your.email@example.com
+Phone: +1 (234) 567-890
+Location: Your City Country
+LinkedIn: https://linkedin.com
+GitHub: https://github.com
+
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: What is John Keynard Amacna's area of expertise?
+A: John is a Full Stack Developer specializing in creating beautiful, functional, and user-centered digital experiences. He has 3+ years of experience and has completed 50+ projects.
+
+Q: What technologies does John work with?
+A: John works with a wide range of technologies including React, JavaScript, TypeScript, Node.js, Python, MongoDB, PostgreSQL, and various cloud platforms like AWS.
+
+Q: What services does John offer?
+A: John offers Web Development, UI/UX Design, Mobile Applications, API Development, Database Design, and Cloud Solutions.
+
+Q: How many projects has John completed?
+A: John has completed 50+ projects and worked with 100+ satisfied clients.
+
+Q: What is John's experience level?
+A: John has over 3 years of professional experience as a Full Stack Developer.
+
+Q: Does John work on mobile applications?
+A: Yes, John develops mobile applications using React Native and has experience with cross-platform mobile development.
+
+Q: What frontend frameworks does John use?
+A: John primarily uses React for frontend development, along with TypeScript, HTML5, CSS3, and Tailwind CSS.
+
+Q: What backend technologies does John work with?
+A: John works with Node.js and Python for backend development, along with MongoDB and PostgreSQL for database management.
+
+Q: How can I contact John?
+A: You can contact John via email at your.email@example.com, phone at +1 (234) 567-890, or through LinkedIn and GitHub.
+

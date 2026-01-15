@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+  <script type="module">
+    import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+    Chatbot.init({
+        chatflowid: "4270f9cf-a206-452d-ac37-162568437d77",
+        apiHost: "https://cloud.flowiseai.com",
+        // Try without apiKey first - if chatflow is public, it should work
+        // If this doesn't work, uncomment the line below and add a fresh API key
+        // apiKey: "YOUR_FRESH_API_KEY_HERE",
+    })
+</script>
+</html>
+
