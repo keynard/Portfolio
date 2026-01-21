@@ -14,7 +14,7 @@ const About = () => {
           <p className="about-description">
            I am an IT student with foundational skills in Network Design, Web Development,
             UI/UX Design, Cybersecurity, and Network Administration. 
-            I enjoy learning how systems work together—from designing simple network setups to 
+            I enjoy learning how systems work together from designing simple network setups to 
             building user-friendly websites and applying basic security practices. 
             I am continuously improving my skills through hands-on projects and coursework.
           </p>
