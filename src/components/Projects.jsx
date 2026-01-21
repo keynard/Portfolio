@@ -3,57 +3,38 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa'
 import './Projects.css'
 
 const Projects = () => {
+  // Update these URLs to your deployed apps (or local dev URLs).
+  // Examples:
+  // - Laravel CRUD: http://localhost:8000
+  // - Dashboard:    http://localhost:5173/dashboard
+  const LARAVEL_CRUD_URL = 'https://example.com'
+  const DASHBOARD_URL = 'https://example.com'
+
   const projects = [
     {
-      title: 'E-Commerce Platform',
+      title: 'Laravel CRUD (Demo)',
       description:
-        'A full-stack e-commerce solution with payment integration, user authentication, and admin dashboard.',
-      technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-      image: '🛒',
-      github: 'https://github.com',
-      demo: 'https://example.com',
+        'Simple Laravel CRUD application (create, read, update, delete) with MySQL/SQL.',
+      technologies: ['Laravel', 'MySQL', 'CRUD'],
+      image: '🧩',
+      github: 'https://github.com/keynard/laptop-rental.git',
+      demo: 'https://laptop-rental-mof3.onrender.com',
     },
     {
-      title: 'Task Management App',
+      title: 'Sample Dashboard',
       description:
-        'A collaborative task management application with real-time updates and team collaboration features.',
-      technologies: ['React', 'TypeScript', 'Firebase', 'Material-UI'],
-      image: '📋',
-      github: 'https://github.com',
-      demo: 'https://example.com',
+        'A sample dashboard UI showcasing layout, components, and basic interactivity.',
+      technologies: ['Laravel', 'blade', 'Bootstrap'],
+      image: '📈',
+      github: 'https://github.com/keynard/keyninc.git',
+      demo: 'keyninc.vercel.app',
     },
+   
     {
-      title: 'Weather Dashboard',
+      title: 'EyeFlood',
       description:
-        'A beautiful weather dashboard with location-based forecasts and interactive maps.',
-      technologies: ['React', 'OpenWeather API', 'Chart.js', 'CSS3'],
-      image: '🌤️',
-      github: 'https://github.com',
-      demo: 'https://example.com',
-    },
-    {
-      title: 'Social Media Analytics',
-      description:
-        'Analytics platform for social media metrics with data visualization and reporting tools.',
-      technologies: ['React', 'Python', 'PostgreSQL', 'D3.js'],
-      image: '📊',
-      github: 'https://github.com',
-      demo: 'https://example.com',
-    },
-    {
-      title: 'Fitness Tracker',
-      description:
-        'Mobile-first fitness tracking app with workout plans, progress tracking, and social features.',
-      technologies: ['React Native', 'Node.js', 'MongoDB', 'GraphQL'],
-      image: '💪',
-      github: 'https://github.com',
-      demo: 'https://example.com',
-    },
-    {
-      title: 'Blog Platform',
-      description:
-        'A modern blogging platform with markdown support, SEO optimization, and content management.',
-      technologies: ['Next.js', 'TypeScript', 'Prisma', 'Tailwind CSS'],
+        'Capstone Project: Mobile-Based Smart Flood Monitoring and Alert System for Real-Time Water Level Tracking and Notification',
+      technologies: ['React Native', 'Firebase'],
       image: '✍️',
       github: 'https://github.com',
       demo: 'https://example.com',
@@ -69,6 +50,26 @@ const Projects = () => {
           Some of my recent work and side projects
         </p>
       </div>
+
+      <div className="project-cta">
+        <a
+          href={LARAVEL_CRUD_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="project-cta-btn"
+        >
+          <FaExternalLinkAlt /> Open Laravel CRUD
+        </a>
+        <a
+          href={DASHBOARD_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="project-cta-btn"
+        >
+          <FaExternalLinkAlt /> Open Sample Dashboard
+        </a>
+      </div>
+
       <div className="projects-grid">
         {projects.map((project, index) => (
           <div key={index} className="project-card">

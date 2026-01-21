@@ -101,4 +101,3 @@ A: John's portfolio website was built using React 18, Vite, React Icons, and CSS
 Q: How can I contact John?
 A: You can contact John via email at keynardamacna@gmail.com, phone at 0947 257 2965, or visit him at 76 Panganiban St, Cebu City. You can also reach him through LinkedIn and GitHub.
 
-IMPORTANT REMINDER: This document contains ALL available information about John Keynard Amacna. Do NOT reference any information not explicitly stated in this document, including but not limited to: years of experience, number of projects completed, number of clients, Full Stack Developer title, backend technologies (Node.js, Python, MongoDB, PostgreSQL), TypeScript, Tailwind CSS, Docker, AWS, or any example projects other than the Personal Portfolio Website listed above.

@@ -25,11 +25,11 @@ const About = () => {
             <h3>What I Do</h3>
             <ul className="about-list">
               <li>Network Design</li>
-              <li>Routing & Switching</li>
-              <li>Network Security</li>
-              <li>Network Troubleshooting</li>
-              <li>VLAN Configuration</li>
-              <li>WAN Technologies</li>
+              <li>Web Developer</li>
+              <li>UI/UX</li>
+              <li>Cybersecurity</li>
+              <li>Network Admin</li>
+              
             </ul>
           </div>
         </div>
