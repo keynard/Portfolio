@@ -27,7 +27,7 @@ const Projects = () => {
       technologies: ['Laravel', 'blade', 'Bootstrap'],
       image: '📈',
       github: 'https://github.com/keynard/keyninc.git',
-      demo: 'keyninc.vercel.app',
+      demo:  'https://keyninc.vercel.app',
     },
    
     {
