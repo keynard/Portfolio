@@ -12,12 +12,11 @@ const About = () => {
         <div className="about-text">
           
           <p className="about-description">
-            I'm still learning and continuously expanding my knowledge in networking
-            technologies. When I'm not configuring routers and switches, you can find me
-            exploring new networking technologies, troubleshooting complex network issues,
-            studying for advanced certifications, or sharing knowledge with the networking
-            community. I believe that learning never stops, and I'm always eager to take
-            on new challenges and grow in this ever-evolving field.
+           I am an IT student with foundational skills in Network Design, Web Development,
+            UI/UX Design, Cybersecurity, and Network Administration. 
+            I enjoy learning how systems work together—from designing simple network setups to 
+            building user-friendly websites and applying basic security practices. 
+            I am continuously improving my skills through hands-on projects and coursework.
           </p>
         </div>
         <div className="about-image">
